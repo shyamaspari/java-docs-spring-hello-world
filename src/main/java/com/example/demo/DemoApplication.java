@@ -16,6 +16,6 @@ public class DemoApplication extends SpringBootServletInitializer {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "<h2>Hello World! shyam</h2>";
+		return "Hello World! shyam......";
 	}
 }
