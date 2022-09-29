@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'ptcifamilyday2022pune'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA2E4DD102ED45949D48BC82E24A147A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_11C51A1B35EB4B34BD58D380140FEBB9 }}
           package: '*.war'
